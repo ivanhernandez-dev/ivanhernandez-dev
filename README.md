@@ -14,9 +14,9 @@
 
 - 💜​ Linux lover
 
-- 📬 How to reach me: **contact@ivher.dev**
+- 📬 How to reach me: **contact@ivanhernandez.dev**
 
-- 🌐​ Building my personal website: **[ivher.dev](https://ivher.dev)**
+- 🌐​ Building my personal website: **[ivanhernandez.dev](https://ivanhernandez.dev)**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
