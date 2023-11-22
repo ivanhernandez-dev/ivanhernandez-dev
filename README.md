@@ -16,7 +16,7 @@
 
 - 📬 How to reach me: **contact@ivanhernandez.dev**
 
-- 🌐​ Building my personal website: **[ivanhernandez.dev](https://ivanhernandez.dev)**
+- 🌐​ Building my personal website
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
