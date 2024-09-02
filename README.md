@@ -8,8 +8,7 @@
 
 ### 💁‍♂️ About me:
 
-- 📖​ Student of **Web App Development** in CIPFP Mislata
-
+- 📖​ Student of **Bachelor of Computer Science** in Universidad Politécnica de Valencia
 - ☕​ I'm currently learning **Java** and **Python**.
 
 - 💜​ Linux lover
