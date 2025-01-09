@@ -9,13 +9,8 @@
 ### 💁‍♂️ About me:
 
 - 📖​ Student of **Bachelor of Computer Science** in Universidad Politécnica de Valencia
-- ☕​ I'm currently learning **Java** and **Python**.
 
 - 💜​ Linux lover
-
-- 📬 How to reach me: **contact@ivanhernandez.dev**
-
-- 🌐​ Building my personal website: https://www.ivanhernandez.dev
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
