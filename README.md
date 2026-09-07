@@ -10,7 +10,7 @@
 
 - 💼 Currently working as a **PHP Fullstack Developer**
 
-- ☕ Passionate about **Java**, learning it as a self-taught developer
+- ☕ Self-taught in the **JVM ecosystem** — Java, Kotlin and Spring Boot
 
 - 🏗️ Passionate about **software architecture**, **design patterns** and **best practices**
 
